@@ -3,7 +3,7 @@ rm -f *.jpg
 convert -quality 100 -density 600 -verbose -trim  CAH_PortugueseByMarcelo.pdf card.jpg
 rm -f card-0.jpg 
 mv card-30.jpg terms.jpg
-mv card-1.jpg instruction.jpg
+mv card-1.jpg instructions.jpg
 ii=0
 for i in {25..29}; do
     mv card-$i.jpg qcard-$ii.jpg
