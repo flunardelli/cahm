@@ -136,4 +136,13 @@ angular.module('starter.controllers', [])
      });
    };
 
+   $scope.numAnswers = function() {
+      for (i=0;i<$scope.data.answers.length;i++) {
+        if ($scope.data.answers[i].selected) {
+          return true;
+        }
+      }
+      return false;
+   }
+
 });
