@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"snm",
+				"$snmp_cfg〔variable〕"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"var",
+				"var_export〔function〕"
+			],
+			[
+				"para",
+				"$param〔variable〕"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"lice",
+				"license"
+			],
+			[
+				"gen",
+				"gencp  (function)"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"re",
+				"return  (variable)"
+			],
+			[
+				"file_p",
+				"file_put_contents"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"pt_B",
+				"pt_BR_ITIL"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"var_d",
+				"var_dump"
+			],
+			[
+				"nav",
+				"navmod"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ip",
+				"ips"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"us",
+				"userInfo"
+			],
+			[
+				"start",
+				"startStage"
+			],
+			[
+				"stage",
+				"stage1"
+			],
+			[
+				"A",
+				"adonais"
+			],
+			[
+				"til",
+				"title"
+			],
+			[
+				"lives",
+				"livesmax"
+			],
+			[
+				"b",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fernandolunardelli/Documents/Projects/cahm/ionic.project",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432568340/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/Host.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432559649/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432552578/192.168.10.194/usr/local/opmon/share/gearman/workers/discovery-importer.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431104343/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/HostDiscovery.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431108063/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/ConfigManager.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431112418/192.168.10.194/usr/local/opmon/share/opcfg/includes/fruity.inc",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431113684/192.168.10.194/usr/local/opmon/share/gearman/workers/discovery-importer.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431117639/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/HostBucket.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431103881/192.168.10.194/usr/local/opmon/share/seagull/modules/discovery/classes/DiscoveryAjaxProvider.php",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/192.168.10.194",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431297593/192.168.10.194/usr/local/opmon/share/seagull/modules/opexporter/classes/OpExporterMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1431107891/192.168.10.194/usr/local/opmon/share/oplib/workers/discovery-importer.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1430403987/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/CP.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1430413486/192.168.10.194/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429896932/opdev2/usr/local/opmon/share/seagull/modules/opexporter/classes/OpExporterMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429896889/opdev2/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/Users/fernandolunardelli/Desktop/asjs/draw.html",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429535381/opdev2/usr/local/opmon/share/dashboard/index.html",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429535406/opdev2/usr/local/opmon/share/dashboard/app.js",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429535362/opdev2/usr/local/opmon/share/dashboard/api.php",
+		"/Library/WebServer/Documents/tikitap/index.html",
+		"/Library/WebServer/Documents/tikitap/main.js",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/192.168.10.177",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429148370/192.168.10.177/usr/local/opmon/share/dashboard/index.html",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1429148466/192.168.10.177/usr/local/opmon/share/dashboard/app.js",
+		"/Users/fernandolunardelli/Documents/Projects/duolate/www/index.html",
+		"/Users/fernandolunardelli/Documents/Projects/duolate/www/js/controllers.js",
+		"/Users/fernandolunardelli/Documents/Projects/duolate/www/js/app.js",
+		"/Library/WebServer/Documents/info.php",
+		"/Users/fernandolunardelli/Desktop/test.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1422122104/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1422118935/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1422118769/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/Users/fernandolunardelli/Documents/Projects/opservices/onc/www/js/app.js",
+		"/Users/fernandolunardelli/Documents/Projects/opservices/onc/www/js/controllers.js",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1422104256/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421457488/192.168.10.122/usr/local/opmon/share/x.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421587219/192.168.10.122/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421458203/192.168.10.122/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421537352/192.168.10.122/usr/local/opmon/share/customhandlers/example.php",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/192.168.10.122",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421014313/opdev3/usr/local/opmon/share/seagull/modules/opreports/classes/OpReportsMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421017449/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomReport.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421014296/opdev3/usr/local/opmon/share/seagull/modules/opexporter/classes/OpExporterMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421014276/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421014250/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1421014223/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1420992999/192.168.10.199/usr/local/opmon/share/seagull/modules/opexporter/classes/OpExporterMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1420996790/192.168.10.199/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/stage1/Player.as",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/stage1/Enemy.as",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/192.168.10.199",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419011527/opdev3/home/opuser/newtraffic/testtraffic.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419011782/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419010842/bruno/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419010965/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419010925/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomHandler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419010889/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419010808/bruno/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418996887/bruno/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomHandler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418996721/bruno/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1419005804/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418996172/bruno/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418079578/opdev3/home/opuser/newcp/CP51.php",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/bruno",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418079617/opdev3/home/opuser/newcp/CP52.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418234451/bruno/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417979132/opdev3/home/opuser/newcp/CP3.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418047951/opdev3/home/opuser/newcp/CP_ori.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1418047903/opdev3/home/opuser/newcp/CP.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417548140/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417204923/opdev3/usr/local/opmon/share/opcfg/sqldata/languages.sql",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417196883/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417195469/opdev4/usr/local/opmon/share/oplib/libphp/opmonclasses/Traffic.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417195077/opdev4/usr/local/opmon/share/seagull/modules/traffic/classes/TrafficMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416828513/opdev3/usr/local/opmon/share/seagull/modules/traffic/classes/TrafficMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416831175/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/unimed-alto",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417019295/opdev3/usr/local/opmon/share/ws/slmxls.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417020604/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1417020750/unimed-alto/home/opuser/textcp.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416828780/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416601367/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomHandler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416346576/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416225662/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416247566/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/templates/davinci.html",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416247373/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/templates/flexindex.html",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416247357/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416224639/opdev3/usr/local/opmon/share/customhandlers/traffic/data.json",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416225607/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomHandler.php",
+		"/Users/fernandolunardelli/Desktop/opcombobox-new.as3",
+		"/Users/fernandolunardelli/Desktop/filter.as3",
+		"/Users/fernandolunardelli/Desktop/untitled.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416500246/opdev4/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomHandler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416500338/opdev4/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1416225597/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415972853/opdev4/usr/local/opmon/share/seagull/modules/traffic/classes/TrafficMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415981796/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415983441/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415981827/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415990211/opdev3/usr/local/opmon/share/customhandlers/traffic/data.json",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415622979/opdev3/usr/local/opmon/share/seagull/modules/opdashboard/classes/OpdashboardMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415621780/opdev4/usr/local/opmon/share/seagull/modules/traffic/classes/TrafficMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415621634/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415660408/opdev3/usr/local/opmon/share/oplib/libphp/opmonclasses/CustomHandler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415621612/opdev3/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415616971/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/opdev3",
+		"/Users/fernandolunardelli/Documents/AS3/SoundVisualizer/effects/SoundVisualizer.as",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/StartState.as",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/Registry.js",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/states/MainMenu.js",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/states/Preloader.js",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/canvas/test1.html",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/states/Boot.js",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/Mikrokosmos.as",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/mikrokosmos.html",
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/BaseState.as"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"service",
+			"getservice",
+			"check_comm",
+			"check_co",
+			"file",
+			"var_d",
+			"hostbu",
+			"add_service",
+			"get_host_bucket",
+			"import_objects",
+			"import_service_object",
+			"import_host_object",
+			"discoveryImportObjects",
+			"import_service_object",
+			"discoveryImportObjects",
+			"config_manager",
+			"get_from_db_by_name",
+			"raw_data",
+			"warning",
+			"->metrics ",
+			"json_array",
+			"getstat",
+			"'value'",
+			"'value",
+			"'value'",
+			"\"value\"",
+			"\"value",
+			"\"value\"",
+			"\"value",
+			"\"value\"",
+			"'value'",
+			"value",
+			"get_last_collected_value",
+			"reduce_summarized_data",
+			"getstatus",
+			"pie",
+			"getsavedda",
+			"shareduid",
+			"embed",
+			"127",
+			"gendata",
+			"response",
+			"genpdffile",
+			"genpdf",
+			"get_traffic_data",
+			"getstat",
+			"forceus",
+			"get_traffic_data",
+			"traffic_request",
+			"getsta",
+			"getst",
+			"getstat",
+			"getstatu",
+			"data_tm",
+			"memo",
+			"getcp",
+			"memo",
+			"mem",
+			"memo",
+			"mem",
+			"memo",
+			"mem",
+			"memo",
+			"Traffic Analyzer\"",
+			"\"Traffic Analyzer\"",
+			"Traffic Analyzer",
+			"convert",
+			"verify_license_and_slice",
+			"getcp",
+			"periods",
+			"period",
+			"action",
+			"getstat",
+			"getcustomhandlers",
+			"getcusto",
+			"uid",
+			"share",
+			"stream",
+			"shared",
+			"getsavedd",
+			"getsaved",
+			"get_customhandlers",
+			"getcustomhandlersdashboard",
+			"getsaveddashboard",
+			"nats",
+			"opmonad",
+			"customha",
+			"get_st",
+			":Number",
+			"xSpeed",
+			"off",
+			":String",
+			"regis",
+			"addClickText"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 405.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "ionic.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/mikrokosmos-game/html5/mikrokosmos.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
