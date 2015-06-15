@@ -1,0 +1,24 @@
+<ion-view view-title="Host Game">
+  <ion-content>
+  <div class="row">
+  	<div class="col">
+    	<button class="button button-block button-stable" ng-click="addItem()">Start GameID: {{gameID}}</button>
+  	</div>
+  </div>
+  
+  	<div class="list">
+
+	  <div class="item item-divider">
+	    Players
+	  </div>
+	  <ion-list>
+	  <ion-item  class=""/>
+      <ion-item ng-repeat="player in players">
+        {{player.username}}
+        
+      </ion-item>
+    </ion-list>
+  </div>
+    
+  </ion-content>
+</ion-view>
