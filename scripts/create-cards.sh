@@ -1,6 +1,6 @@
 #!/bin/sh
 rm -f *.jpg
-convert -quality 100 -density 600 -verbose -trim  CAH_PortugueseByMarcelo.pdf card.jpg
+convert -quality 100 -density 600 -verbose -trim  ../pt-br.pdf card.jpg
 rm -f card-0.jpg 
 mv card-30.jpg terms.jpg
 mv card-1.jpg instructions.jpg
@@ -12,14 +12,14 @@ done
 
 ii=0
 for i in card*.jpg; do
-    convert -crop 1195x1195 $i -trim -verbose answer-card-$ii-%d.jpg
+    convert -crop 1195x1195-1-1 $i -trim -verbose answer-card-$ii-%d.jpg
     rm $i
     let ii++
 done
 
 ii=0
 for i in qcard*.jpg; do
-    convert -crop 1195x1195 $i -trim -verbose question-card-$ii-%d.jpg
+    convert -crop 1195x1195-1-1 $i -trim -verbose question-card-$ii-%d.jpg
     rm $i
     let ii++
 done

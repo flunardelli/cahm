@@ -1,6 +1,11 @@
 angular.module('starter.controllers', [])
-
+.run(function() {
+    //$rootScope.loginData = 'init';
+})
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
+
+ // $scope.game = {};
+
   // Form data for the login modal
   $scope.loginData = {};
 
@@ -30,18 +35,62 @@ angular.module('starter.controllers', [])
     $timeout(function() {
       $scope.closeLogin();
     }, 1000);
+
+
+  /*var ref = new Firebase("https://glaring-torch-2223.firebaseio.com/messages");
+  // create a synchronized array
+  $scope.messages = $firebaseArray(ref);
+  // add new items to the array
+  // the message is automatically added to our Firebase database!
+  $scope.addMessage = function() {
+    $scope.messages.$add({
+      text: $scope.newMessageText
+    });
+  };*/
+
+
   };
 })
 
-.controller('GameCtrl', function($scope, $state, $ionicSlideBoxDelegate, $ionicPopup) {
+.controller('GameCtrl', function($scope, $state, $ionicSlideBoxDelegate, $ionicPopup, $firebaseObject) {
   $scope.players = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
+    { username: 'Reggae', id: 1 },
+    { username: 'Chill', id: 2 },
+    { username: 'Dubstep', id: 3 },
+    { username: 'Indie', id: 4 },
+    { username: 'Rap', id: 5 },
   ];
+
+  $scope.hostGame = function() {
+    //console.log('host-game',$scope.loginData);
+    //$location.path('/host-game');
+    if (!$scope.loginData.username) {
+      $scope.login();
+    } else {
+
+      var gameID = Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);  
+      var gameSession = "g"+gameID;     
+      var ref = new Firebase("https://glaring-torch-2223.firebaseio.com/"+gameSession);
+
+      var syncObject = $firebaseObject(ref); 
+        
+      syncObject.$bindTo($scope, gameSession);
+      console.log(gameSession);
+      $scope[gameSession] = {gid: gameID};
+
+      console.log('c:'+$scope[gameSession].gid);
+      $state.go('app.host-game');      
+    }
+  };
+  $scope.joinGame = function() {
+    //console.log('join-game',$scope.loginData);
+    //$location.path('/host-game');
+    if (!$scope.loginData.username) {
+      $scope.login();
+    } else {
+      $state.go('app.join-game');
+    }
+  };
   $scope.data = {
     numViewableSlides : 0,
     slideIndex : 0,

@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'ionicLazyLoad', 'starter.controllers'])
+angular.module('starter', ['ionic', 'ionicLazyLoad', 'firebase', 'starter.controllers' ])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -48,15 +48,32 @@ angular.module('starter', ['ionic', 'ionicLazyLoad', 'starter.controllers'])
       }
     }
   })
-    .state('app.select-game', {
-      url: "/select-game",
-      views: {
-        'menuContent': {
-          templateUrl: "templates/select-game.html"          
-        }
+  .state('app.select-game', {
+    url: "/select-game",
+    views: {
+      'menuContent': {
+        templateUrl: "templates/select-game.html",
+        controller: 'GameCtrl'        
       }
-    })
-
+    }
+  })
+  .state('app.host-game', {
+    url: "/host-game",
+    views: {
+      'menuContent': {
+        templateUrl: "templates/host-game.html",
+        controller: 'GameCtrl'
+      }
+    }
+  }).state('app.join-game', {
+    url: "/join-game",
+    views: {
+      'menuContent': {
+        templateUrl: "templates/join-game.html",
+        controller: 'GameCtrl'
+      }
+    }
+  })
   /*.state('app.single', {
     url: "/players/:playerId",
     views: {

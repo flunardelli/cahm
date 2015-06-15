@@ -4,16 +4,48 @@
 		"selected_items":
 		[
 			[
+				"var",
+				"var_export〔function〕"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"task",
+				"$task_id〔variable〕"
+			],
+			[
+				"is_nu",
+				"is_numeric〔function〕"
+			],
+			[
+				"conct",
+				"contact_id"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color: 〔property〕"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
 				"snm",
 				"$snmp_cfg〔variable〕"
 			],
 			[
 				"var_",
 				"var_dump〔function〕"
-			],
-			[
-				"var",
-				"var_export〔function〕"
 			],
 			[
 				"para",
@@ -38,10 +70,6 @@
 			[
 				"ret",
 				"return"
-			],
-			[
-				"re",
-				"return  (variable)"
 			],
 			[
 				"file_p",
@@ -128,7 +156,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -149,6 +177,23 @@
 	},
 	"file_history":
 	[
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432901802/192.168.10.194/root/test-scheduler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432928930/192.168.10.194/usr/local/opmon/share/seagull/modules/extinfo/classes/ExtinfoAjaxProvider.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432920354/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432902679/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/TemplateWorker.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432901676/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/ScheduledTask.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432919926/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/TaskRunner.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432917653/192.168.10.194/usr/local/opmon/share/seagull/modules/wsconnector/classes/WsConnectorMgr.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432901730/192.168.10.194/usr/local/opmon/share/gearman/workers/scheduler.php",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432910523/192.168.10.194/etc/init.d/gearman-utils",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432910601/192.168.10.194/usr/local/opmon/bin/gcontrol.php",
+		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432925550/192.168.10.194/root/gearman-utils/gearman-utils.spec",
+		"/Users/fernandolunardelli/Documents/Projects/cah/scripts/create-cards.sh",
+		"/Users/fernandolunardelli/Documents/Projects/cah/www/templates/playlists.html",
+		"/Users/fernandolunardelli/Documents/Projects/cah/www/templates/select-game.html",
+		"/Users/fernandolunardelli/Documents/Projects/cah/www/templates/login.html",
+		"/Users/fernandolunardelli/Documents/Projects/cah/www/js/ionic-image-lazy-load.js",
 		"/Users/fernandolunardelli/Documents/Projects/cahm/ionic.project",
 		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432568340/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/Host.php",
 		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1432559649/192.168.10.194/usr/local/opmon/share/oplib/libphp/opmonclasses/functions.php",
@@ -259,15 +304,7 @@
 		"/var/folders/mf/cld2kw7s2lb39068kyhj4ls00000gn/T/sublime-sftp-browse-1415616971/opdev3/usr/local/opmon/share/customhandlers/traffic/index.php",
 		"/Users/fernandolunardelli/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/opdev3",
 		"/Users/fernandolunardelli/Documents/AS3/SoundVisualizer/effects/SoundVisualizer.as",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/StartState.as",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/Registry.js",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/states/MainMenu.js",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/states/Preloader.js",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/canvas/test1.html",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/states/Boot.js",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/Mikrokosmos.as",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/html5/mikrokosmos.html",
-		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/BaseState.as"
+		"/Users/fernandolunardelli/Documents/Projects/mikrokosmos-game/as3/src/game/StartState.as"
 	],
 	"find":
 	{
@@ -286,6 +323,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"removeScheduledTask",
+			"waitForTasksFinish",
+			"aTasks",
+			"backgr",
+			"is_nagios_running",
+			"get_con",
+			":",
+			"start_up_workers",
+			"run_worker_daemon",
+			"logi",
+			"status",
+			"search",
+			"slides",
+			"main",
+			"SlideController",
+			"intro.html",
+			"left",
+			"PlaylistsCtrl",
 			"service",
 			"getservice",
 			"check_comm",
